@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Teacher AI - المعلم الذكي",
+  "description": "تطبيق متكامل للمدرسين بالذكاء الاصطناعي وتطبيق أندرويد (APK): إنشاء امتحانات، تحضير الدروس، تصميم شهادات التقدير، ومساعد معلمين ذكي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
