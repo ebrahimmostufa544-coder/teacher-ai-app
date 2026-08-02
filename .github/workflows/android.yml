@@ -16,7 +16,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 2
 
       - run: npm install
 
@@ -24,7 +24,7 @@ jobs:
 
       - uses: android-actions/setup-android@v3
 
-      - run: |
+      - run: node-version: 22
           cd android
           chmod +x gradlew
           ./gradlew assembleDebug
